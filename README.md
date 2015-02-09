@@ -39,3 +39,4 @@ SIAM, 2009.
 **Nota:** Para visualizar el material del curso de manera sencilla pueden utilizar
 [nbviewer](http://nbviewer.ipython.org/github/lbenet/MetodosNumericosAvanzados/tree/master/)
 
+# Fisica-Computacional-Avanzada
